@@ -1,4 +1,5 @@
 # BA820-Group4-Job-Listing-Integrity-Investigation
+Group member: Dian Jin, Mingze Wu, Tanvi Sheth, Sneha Sunil Ekka, Jenil Shah
 
 ## Job Listing Integrity Investigation
 
