@@ -1,6 +1,6 @@
 # BA820-Group4-Job-Listing-Integrity-Investigation
 
-##Job Listing Integrity Investigation
+## Job Listing Integrity Investigation
 
 ### Motivation
 
